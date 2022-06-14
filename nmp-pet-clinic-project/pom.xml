@@ -37,7 +37,7 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:https://github.com/modith-prabath/nmp-pet-clnic.git </developerConnection>
+		<developerConnection>scm:git:https://github.com/modith-prabath/nmp-pet-clinic-project.git </developerConnection>
   </scm>
 
 	<modules>
