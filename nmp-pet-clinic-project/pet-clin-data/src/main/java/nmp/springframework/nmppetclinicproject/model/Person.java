@@ -1,6 +1,6 @@
 package nmp.springframework.nmppetclinicproject.model;
 
-public class Person {
+public class Person extends BaseEntity {
   private String firstName ;
 
   private String lastName ;
