@@ -35,11 +35,6 @@
 		</plugins>
 	</build>
 
-	<scm>
-		<developerConnection>scm:git:https://github.com/modith-prabath/nmp-pet-clinic-project.git </developerConnection>
-    <tag>HEAD</tag>
-  </scm>
-
 	<modules>
 		<module>pet-clin-data</module>
 		<module>pet-clin-web</module>
