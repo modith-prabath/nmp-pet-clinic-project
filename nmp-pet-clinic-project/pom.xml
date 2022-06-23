@@ -35,15 +35,16 @@
 		</plugins>
 	</build>
 
+	<scm>
+		<developerConnection>
+			scm:git:https://github.com/modith-prabath/nmp-pet-clinic-project.git
+		</developerConnection>
+	</scm>
+
 	<modules>
 		<module>pet-clin-data</module>
 		<module>pet-clin-web</module>
 	</modules>
 
-	<!-- <distributionManagement>
-    <repository>
-        <id>releases</id>
-        <url>scp://repo/maven2</url>
-    </repository>
-	</distributionManagement> -->
+
 </project>
